@@ -15,7 +15,7 @@ You can see this application in action by clicking the link here: https://shanel
 To use the password generator, click the Generate Password button. You will be prompted to select a password length between 8 and 128 characters. You will then be asked what type of characters you would like to include in the password. You can choose uppercase, lowercase, numbers, and/or symbols but must choose at least one type. After making all of your selections a unique password will be generated in the text area and you can copy and paste it to a word file, or directly to where you are being asked to create a password.
 
 The following screenshot shows what the application should look like after a password is generated.
-![Screenshot of the Password Generator application](/Password-Generator-Screenshot.PNG)
+![Screenshot of the Password Generator application](/assets/images/Password-Generator-Screenshot.PNG)
 
 ## Credits
 
